@@ -1,0 +1,22 @@
+{
+    "name": "a03",
+    "version": "0.0.1",
+    "description": "resume app",
+    "main": "app.js",
+	"scripts":{
+	"start":"node app.js"
+	},
+    "dependencies": {
+        "express": "latest",
+        "morgan": "latest",
+        "body-parser": "latest",
+        "ejs": "latest"
+    },
+    "author": "Sunkara Saketh",
+    "homepage": "https://bitbucket.org/sakethS/",
+    "repository": {
+        "type": "git",
+        "url": "https://bitbucket.org/sakethS/"
+    },
+    "license": "Apache-2.0"
+}

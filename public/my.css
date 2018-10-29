@@ -1,0 +1,67 @@
+
+#tag{
+	text-align: center;
+}
+
+
+body{
+	background-image: url("hi.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+img{
+border-radius:75%;
+width:100px;
+height:100px%;
+}
+
+.profile{
+	height: 150px;
+	width: 150px;
+	margin-top: 50px;
+	border-radius: 50%;
+}
+
+.about{
+	margin-top: 90px;
+}
+
+#myNavbar li{
+    padding: 5px;
+}
+
+#myNavbar li img{
+	height: 30px;
+    width: 30px;
+    border-radius: 2px;
+}
+.T1  table,th,td{
+	
+	border : 2px solid black;
+}
+.T1{
+	
+	margin-right : auto;
+}
+.li{
+	font-size : 15px;
+	border-color : white;
+	max-width : 550px;
+	font-family : Lucida Calligraphy;
+	text-align : left;
+	margin-left : 50px;
+}
+.h{
+	font-size : 20px;
+	border-color : white;
+	max-width : 550px;
+	font-family : italic;
+	text-decoration: underline;
+	margin-right : auto;
+}
+.p{
+	font-size : 20px;
+	font-family : Lucida Calligraphy;
+	margin-left : 50px;
+}
+
